@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**xendyex/xendyex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🔭 I’m currently working on python stuff.
+
+🌱 I’m currently learning C
+
+👯 I’m looking to collaborate on nothing, sorry.
+
+🤔 I’m looking for help with uhm uhhh uhhhhhhhhh
+
+💬 Ask me about anime!
+
+📫 How to reach me: contact xendyex@tutanota.com or xendyex on discord.
+
+😄 Pronouns: she/her or they/them
+
+⚡ Fun fact: im pansexual! it means i can be attracted to any gender without bias. not that I'm attracted to pans.
+
